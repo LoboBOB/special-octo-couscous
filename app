@@ -1,6 +1,6 @@
 {
-"url":"https://raw.githubusercontent.com/LoboBOB/jubilant-fiesta/main/",
-"urlSecond": "qq",
+"url":"https://raw.githubusercontent.com/LoboBOB/jubilant-fiesta/",
+"urlSecond": "q",
 "randomValue": "12",
-"flag": "1"
+"flag": "0"
 }
